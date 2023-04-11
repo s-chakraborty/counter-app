@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.buttonsplaceholder{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Buttonone{
+    background-color: coral; 
+    border: none;
+    color: white;
+    padding-left: 10px ;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Buttonone:hover{
+    background-color: cyan;
+}
+.Buttontwo{
+    background-color: red; 
+    border: none;
+    color: white;
+    padding-left: 10px ;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.Buttontwo:hover{
+    background-color: cyan;
+}
+
+.Buttonthree{
+    background-color: coral; 
+    border: none;
+    color: white;
+    padding-left: 10px ;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.Buttonthree:hover{
+    background-color: cyan;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.x{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-size: 60px;
+    font-weight: 900;
+}
